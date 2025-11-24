@@ -1,2 +1,2 @@
 # sudoku
-resuelve un sudoky armado por el usuario
+resuelve un sudoku armado por el usuario
